@@ -1,0 +1,19 @@
+{
+    "name": "solisleanesanity/greetr",
+    "description": "Greetr - sample laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francis Solis",
+            "email": "francis.solis@rococoglobaltech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Solisleanesanity\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
